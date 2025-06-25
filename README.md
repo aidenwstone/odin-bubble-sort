@@ -1,1 +1,2 @@
 # odin-bubble-sort
+This is a simple program created as part of The Odin Project. I will use the Ruby basics I have learned so far to code a program which will take an array and return a sorted version using a bubble sort algorithm.
